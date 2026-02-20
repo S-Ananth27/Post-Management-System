@@ -35,3 +35,15 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.css
+
+Install dependencies
+
+npm install
+
+Start development server
+
+npm run dev
+
+Open in browser
+
+http://localhost:5173
