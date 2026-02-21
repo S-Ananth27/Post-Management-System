@@ -46,4 +46,6 @@ npm run dev
 
 Open in browser
 
-http://localhost:5173
+output
+
+https://github.com/S-Ananth27/Post-Management-System/blob/main/Screenshot%20(29).png?raw=true
